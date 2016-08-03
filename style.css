@@ -1,0 +1,50 @@
+#main {
+    padding-right: 10%;
+    padding-left: 10%;
+   
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#aboutText {
+  font-size: 150%;
+  text-align: justify;
+  padding-right: 5%;
+  padding-left:5%;
+  padding-top:5%;
+  padding-bottom: 5%;
+}
+#about-photo {
+  padding-right: 10%;
+  padding-left:10%;
+  padding-top:10%;
+  padding-bottom: 10%;
+}
+body {
+  background-color: #E9CFEC;
+}
+h1 {
+  text-align: center;
+}
+
+/* add a little bottom space under the images */
+.thumbnail {
+	margin-bottom:7px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#contact-heading {
+  text-align: center;
+}
+
+#social-media {
+  font-size: 150%;
+  text-align: center;
+}
+
+.btn-warning {
+  background-color: #555555;
+  border-color: #555555;
+}
